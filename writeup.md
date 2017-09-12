@@ -31,10 +31,10 @@ The goals / steps of this project are the following:
 My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I applied gaussian blurring.
 
 Grayscale:
-![alt text] Project1/test_images_output/test1.jpg 
+![alt text] (https://github.com/BVG85/Project1/blob/master/test_images_output/test1.jpg)
 
 Gaussian blurring:
-![alt text][image2]
+![alt text](https://github.com/BVG85/Project1/blob/master/test_images_output/test1.jpg)
 
 For each step of the pipeline I displayed the image, to allow for quicker analysis of results.
 
