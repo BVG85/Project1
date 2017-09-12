@@ -16,8 +16,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 
-[image1]: ./test_images_out/test1.jpg "gray"
-[image2]: ./test_images_out/test2.jpg "g_blur"
+[image1]: Project1/test_images_out/test1.jpg "gray"
+[image2]: Project1/test_images_out/test2.jpg "g_blur"
 ---
 
 ### Reflection
