@@ -32,7 +32,12 @@ Final result
 
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by separating the 
-lines with positive and negative slopes. This portion of the project (along with parameter adjustments) took most of the time.
+lines with positive and negative slopes. A new function was created for plotting the solid lines.
+
+This portion of the project (along with parameter adjustments) took most of the time.
+
+The following blog post was really helpful https://peteris.rocks/blog/extrapolate-lines-with-numpy-polyfit/ , along with browsing though the slack channel.
+
 Limits on the angles were also applied later, as better results were achieved with this rather than only using positive or negative 
 slopes.
 
