@@ -18,6 +18,10 @@ The goals / steps of this project are the following:
 
 [image1]: Project1/test_images_out/test1.jpg "gray"
 [image2]: Project1/test_images_out/test2.jpg "g_blur"
+[image3]: Project1/test_images_out/test3.jpg "edges"
+[image4]: Project1/test_images_out/test4.jpg "masked"
+[image5]: Project1/test_images_out/test5.jpg "hlines"
+[image6]: Project1/test_images_out/test6.jpg "line_edges"
 ---
 
 ### Reflection
