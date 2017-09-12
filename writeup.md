@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 
-[image1]: Project1/test_images_out/test1.jpg "gray"
+[image1]: Project1/test_images_out/test1.jpg "gray" Project1/test_images_output/test1.jpg 
 [image2]: Project1/test_images_out/test2.jpg "g_blur"
 [image3]: Project1/test_images_out/test3.jpg "edges"
 [image4]: Project1/test_images_out/test4.jpg "masked"
@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I applied gaussian blurring.
 
 Grayscale:
-![alt text][image1]
+![alt text] Project1/test_images_output/test1.jpg 
 
 Gaussian blurring:
 ![alt text][image2]
