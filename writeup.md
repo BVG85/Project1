@@ -34,24 +34,24 @@ Grayscale:
 ![alt text] (https://github.com/BVG85/Project1/blob/master/test_images_output/test1.jpg)
 
 Gaussian blurring:
-![alt text](https://github.com/BVG85/Project1/blob/master/test_images_output/test1.jpg)
+![alt text](https://github.com/BVG85/Project1/blob/master/test_images_output/test2.jpg)
 
 For each step of the pipeline I displayed the image, to allow for quicker analysis of results.
 
 After applying the gaussian blurring, Canny edge detection and masking of the image was applied.
 
 Canny edge detection:
-![alt text][image3]
+![alt text](https://github.com/BVG85/Project1/blob/master/test_images_output/test3.jpg)
 
 Masking:
-![alt text][image4]
+![alt text](https://github.com/BVG85/Project1/blob/master/test_images_output/test4.jpg)
 
 Finally the hough transform was applied to the image and the lines were drawn unto the image:
 Hough transform with (solid lines applied)
-![alt text][image5]
+![alt text](https://github.com/BVG85/Project1/blob/master/test_images_output/test5.jpg)
 
 Final result
-![alt text][image6]
+![alt text](https://github.com/BVG85/Project1/blob/master/test_images_output/test6.jpg)
 
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by separating the 
